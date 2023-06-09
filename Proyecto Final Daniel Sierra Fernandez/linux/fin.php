@@ -24,7 +24,7 @@
   <div id="content-wrap">
     <div id="content">
       <div id="main">
-      <h1>Comandas pendientes:</h1>
+      <h1>Comandas finalizadas:</h1>
     <form method="post">
         <ul>
             <?php
