@@ -1,0 +1,3 @@
+Helado	 x1 - 3.25€, Subtotal: 3.25€
+Brownie de chocolate	 x1 - 4.00€, Subtotal: 4€
+Precio total: 7.25€

@@ -1,0 +1,7 @@
+Agua mineral	 x1 - 1.50€, Subtotal: 1.5€
+Refresco de cola	 x1 - 2.00€, Subtotal: 2€
+Zumo de naranja	 x2 - 2.50€, Subtotal: 5€
+Ensalada	 x4 - 4.50€, Subtotal: 18€
+Lomo	 x3 - 7.00€, Subtotal: 21€
+Hamburguesa con queso	 x1 - 5.80€, Subtotal: 5.8€
+Precio total: 53.3€

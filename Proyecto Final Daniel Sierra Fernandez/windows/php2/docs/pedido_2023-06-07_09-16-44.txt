@@ -1,0 +1,3 @@
+Tarta de manzana	 x-1 - 3.00€, Subtotal: -3€
+Brownie de chocolate	 x-1 - 4.00€, Subtotal: -4€
+Precio total: -7€

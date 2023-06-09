@@ -1,0 +1,5 @@
+Zumo de naranja	 x2 - 2.50€, Subtotal: 5€
+Sopa de tomate	 x2 - 3.20€, Subtotal: 6.4€
+Filete de pollo	 x2 - 6.50€, Subtotal: 13€
+Tarta de manzana	 x2 - 3.00€, Subtotal: 6€
+Precio total: 30.4€

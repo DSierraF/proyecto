@@ -1,0 +1,4 @@
+Lomo	 x1 - 7.00€, Subtotal: 7€
+Salmón	 x1 - 9.50€, Subtotal: 9.5€
+Helado	 x1 - 3.25€, Subtotal: 3.25€
+Precio total: 19.75€
