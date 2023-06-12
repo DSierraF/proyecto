@@ -44,7 +44,5 @@ def handle_comprobar_cantidad(message):
 # Registro para procesar todos los mensajes entrantes
 @bot.message_handler(func=lambda message: True)
 def handle_all_messages(message):
-    # Aquí puedes agregar cualquier otro procesamiento de mensajes si es necesario
-    pass
    
 bot.polling()
